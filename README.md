@@ -1,0 +1,1 @@
+# e_ticaret_yazilim_test_kontrolu
